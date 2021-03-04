@@ -1,5 +1,6 @@
 package ro.ase.cts.clase.readers;
 
+import ro.ase.cts.clase.Aplicant;
 import ro.ase.cts.clase.Student;
 
 import java.io.File;
@@ -8,12 +9,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class StudentsReader {
+public class StudentsReader extends IReader{
 
-    public static List<Student> readStudents(String file) throws FileNotFoundException, NumberFormatException {
-        Scanner input = new Scanner(new File(file));
+
+    public StudentsReader(String filePath) {
+        super(filePath);
+    }
+
+    public List<Aplicant> readAplicants() throws FileNotFoundException, NumberFormatException {
+        Scanner input = new Scanner(new File(super.filePath));
         input.useDelimiter(",|\n");
-        List<Student> studenti = new ArrayList<Student>();
+        List<Aplicant> studenti = new ArrayList<>();
 
         while (input.hasNext()) {
             String nume = input.next();
