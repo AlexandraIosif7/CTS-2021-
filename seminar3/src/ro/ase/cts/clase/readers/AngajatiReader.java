@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class AngajatiReader extends IReader {
+public class AngajatiReader extends BaseReader {
 
 
     public AngajatiReader(String filePath) {
@@ -18,22 +18,22 @@ public class AngajatiReader extends IReader {
 
 
     public List<Aplicant> readAplicants() throws FileNotFoundException, NumberFormatException {
-        Scanner input2 = new Scanner(new File(super.filePath));
-        input2.useDelimiter(",");
+        Scanner continutFisier = new Scanner(new File(super.filePath));
+        continutFisier.useDelimiter(",");
         List<Aplicant> angajati = new ArrayList<>();
 
-        while (input2.hasNext()) {
+        while (continutFisier.hasNext()) {
             Angajat angajat=new Angajat();
-            super.citireAplicant(input2,angajat);
+            super.readOneAplicant(continutFisier,angajat);
 
-            int salariu = input2.nextInt();
-            String ocupatie = input2.next();
+            int salariu = continutFisier.nextInt();
+            String ocupatie = continutFisier.next();
             angajat.setSalariu(salariu);
             angajat.setOcupatie(ocupatie);
 
             angajati.add(angajat);
         }
-        input2.close();
+        continutFisier.close();
         return angajati;
     }
 }

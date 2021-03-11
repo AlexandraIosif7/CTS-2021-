@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class EleviReader extends IReader{
+public class EleviReader extends BaseReader {
 
 
     public EleviReader(String filePath) {
@@ -17,23 +17,23 @@ public class EleviReader extends IReader{
     }
 
     public List<Aplicant> readAplicants() throws FileNotFoundException, NumberFormatException {
-        Scanner input2 = new Scanner(new File(super.filePath));
-        input2.useDelimiter(",|\n");
+        Scanner continutFisier = new Scanner(new File(super.filePath));
+        continutFisier.useDelimiter(",");
         List<Aplicant> elevi = new ArrayList<>();
 
-        while (input2.hasNext()) {
+        while (continutFisier.hasNext()) {
             Elev elev= new Elev();
-            super.citireAplicant(input2,elev);
+            super.readOneAplicant(continutFisier,elev);
 
-            int clasa = input2.nextInt();
-            String tutore = input2.next();
+            int clasa = continutFisier.nextInt();
+            String tutore = continutFisier.next();
             elev.setClasa(clasa);
             elev.setTutore(tutore);
 
             elevi.add(elev);
         }
 
-        input2.close();
+        continutFisier.close();
         return elevi;
     }
 }

@@ -5,20 +5,20 @@ import ro.ase.cts.clase.Aplicant;
 import ro.ase.cts.clase.Elev;
 import ro.ase.cts.clase.Proiect;
 import ro.ase.cts.clase.readers.AngajatiReader;
-import ro.ase.cts.clase.readers.IReader;
+import ro.ase.cts.clase.readers.BaseReader;
 
 import java.io.FileNotFoundException;
 import java.util.List;
 
 public class Program {
 
-	public static List<Aplicant> citesteAplicanti( IReader reader) throws FileNotFoundException {
+	public static List<Aplicant> citesteAplicanti( BaseReader reader) throws FileNotFoundException {
 		return reader.readAplicants();
 	}
 
 	public static void main(String[] args) {
-        System.out.println("Suma finantare ptr angajati: " + Angajat.getSumaFinantata());
-        System.out.println("Suma finantare ptr elevi: " + Elev.getSumaFinantata());
+        System.out.println("Suma finantare ptr angajati: " + Angajat.getSumaFinantare());
+        System.out.println("Suma finantare ptr elevi: " + Elev.getSumaFinantare());
 
         List<Aplicant> listaAplicanti;
 		try {
@@ -27,7 +27,7 @@ public class Program {
 
 			for(Aplicant aplicant:listaAplicanti) {
                 System.out.println(aplicant.toString());
-                System.out.println(aplicant.getSumaFinantare());
+                System.out.println(aplicant.optineSumaFinantare());
 
                 aplicant.afisareRaspunsProiect(proiect);
             }

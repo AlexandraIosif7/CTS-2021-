@@ -1,6 +1,5 @@
 package ro.ase.cts.clase.readers;
 
-import ro.ase.cts.clase.Angajat;
 import ro.ase.cts.clase.Aplicant;
 import ro.ase.cts.clase.Student;
 
@@ -10,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class StudentsReader extends IReader{
+public class StudentsReader extends BaseReader {
 
 
     public StudentsReader(String filePath) {
@@ -18,22 +17,22 @@ public class StudentsReader extends IReader{
     }
 
     public List<Aplicant> readAplicants() throws FileNotFoundException, NumberFormatException {
-        Scanner input = new Scanner(new File(super.filePath));
-        input.useDelimiter(",|\n");
+        Scanner continutFisier = new Scanner(new File(super.filePath));
+        continutFisier.useDelimiter(",");
         List<Aplicant> studenti = new ArrayList<>();
 
-        while (input.hasNext()) {
+        while (continutFisier.hasNext()) {
             Student student=new Student();
-            super.citireAplicant(input,student);
+            super.readOneAplicant(continutFisier,student);
 
-            int aniStudii = input.nextInt();
-            String facultate = input.next();
-            student.setAn_studii(aniStudii);
+            int aniStudii = continutFisier.nextInt();
+            String facultate = continutFisier.next();
+            student.setAnStudii(aniStudii);
             student.setFacultate(facultate);
 
             studenti.add(student);
         }
-        input.close();
+        continutFisier.close();
         return studenti;
     }
 }
