@@ -85,10 +85,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1614604218946" />
-    <state x="445" y="121" key="FileChooserDialogImpl" timestamp="1614873194733">
+    <state x="445" y="121" key="FileChooserDialogImpl" timestamp="1616685348134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="445" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614873194733" />
+    <state x="445" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616685348134" />
     <state x="104" y="128" key="MultipleFileMergeDialog" timestamp="1614873131186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -97,13 +97,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614873155973" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1614604205467">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1616685304364">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1614604205467" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1616685304364" />
     <state x="201" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614873104330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="201" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1614873104330" />
+    <state x="209" y="32" key="new project wizard" timestamp="1616685349998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616685349998" />
   </component>
 </project>
