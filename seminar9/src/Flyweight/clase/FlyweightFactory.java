@@ -17,6 +17,7 @@ public class FlyweightFactory {
         }
         else
         {
+            //aici daca vrem sa avem un nume ptr fiecare client nou si sa nu hardcodam ori citim de la tastatura ori dintr-un fisier
             Client clientNou=new Client("Marcel",nrTelefon,"marcel@yahoo.com");
             clientiFactory.put(nrTelefon,clientNou);
 
