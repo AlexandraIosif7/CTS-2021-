@@ -10,10 +10,10 @@ public class RezervareBuilder implements AbstractBuilder{
     }
 
     public RezervareBuilder(int cod){
-        this.rezervare=new Rezervare(cod,false,false,true,true,"jazz");
+        this.rezervare=new Rezervare(cod,false,false,false,false,"no");
     }
 
-    //la builder avem tipul returnat egal cu tipul builderului, nu cu void, ptr a putea apela in cascada
+    //la builder avem ptr setteri tipul returnat egal cu tipul builderului, nu cu void, ptr a putea apela in cascada
     public RezervareBuilder setAreMancare(boolean areMancare){
         rezervare.setAreMancare(areMancare);
         return this;

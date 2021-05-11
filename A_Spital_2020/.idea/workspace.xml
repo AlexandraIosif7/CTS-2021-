@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ad2f39-aca7-4790-9c19-ae415c918215" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sOVo67n3pRusLj0rJj2J5JbCoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../info 3.2/CTS" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1_Builder.main.Main" />
+      <module name="A_Spital_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1_Builder.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ad2f39-aca7-4790-9c19-ae415c918215" name="Default Changelist" comment="" />
+      <created>1620743794504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620743794504</updated>
+    </task>
+    <task id="LOCAL-00001" summary="A1-Builder">
+      <created>1620745058256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620745058256</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1620745138239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620745138239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A1-Builder" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1620744560494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620744560494" />
+    <state x="0" y="9" key="CommitChangelistDialog2" timestamp="1620747591806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1620747591806" />
+    <state width="745" height="210" key="GridCell.Tab.0.bottom" timestamp="1620745200822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620745200822" />
+    <state width="745" height="210" key="GridCell.Tab.0.center" timestamp="1620745200822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1620745200822" />
+    <state width="745" height="210" key="GridCell.Tab.0.left" timestamp="1620745200822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1620745200822" />
+    <state width="745" height="210" key="GridCell.Tab.0.right" timestamp="1620745200822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1620745200822" />
+    <state x="473" y="134" key="RollbackChangesDialog" timestamp="1620746255668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620746255668" />
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2" timestamp="1620745162985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1620745162985" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620747582515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620747582515" />
+  </component>
+</project>
