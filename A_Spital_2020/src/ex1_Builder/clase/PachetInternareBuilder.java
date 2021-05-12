@@ -20,10 +20,12 @@ public class PachetInternareBuilder implements IBuilder {
     public PachetInternareBuilder setMicDejun(boolean areMicDejun){
         pachetInternare.setAreMicDejunInclus(areMicDejun);
         return this;
-    }public PachetInternareBuilder setPapuci(boolean arePapuci){
+    }
+    public PachetInternareBuilder setPapuci(boolean arePapuci){
         pachetInternare.setArePapuci(arePapuci);
         return this;
-    }public PachetInternareBuilder setHalat(boolean areHalat){
+    }
+    public PachetInternareBuilder setHalat(boolean areHalat){
         pachetInternare.setAreHalat(areHalat);
         return this;
     }

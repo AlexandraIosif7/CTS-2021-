@@ -15,23 +15,23 @@ public class PachetInternare {
         this.areHalat = areHalat;
     }
 
-    public void setName(String name) {
+    protected void setName(String name) {
         this.name = name;
     }
 
-    public void setArePatRabatabil(boolean arePatRabatabil) {
+    protected void setArePatRabatabil(boolean arePatRabatabil) {
         this.arePatRabatabil = arePatRabatabil;
     }
 
-    public void setAreMicDejunInclus(boolean areMicDejunInclus) {
+    protected void setAreMicDejunInclus(boolean areMicDejunInclus) {
         this.areMicDejunInclus = areMicDejunInclus;
     }
 
-    public void setArePapuci(boolean arePapuci) {
+    protected void setArePapuci(boolean arePapuci) {
         this.arePapuci = arePapuci;
     }
 
-    public void setAreHalat(boolean areHalat) {
+    protected void setAreHalat(boolean areHalat) {
         this.areHalat = areHalat;
     }
 
