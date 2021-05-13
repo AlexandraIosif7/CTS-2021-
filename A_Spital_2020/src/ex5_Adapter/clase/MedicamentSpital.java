@@ -7,6 +7,7 @@ public class MedicamentSpital {
 
     public String nume;
     public List<String> reteta;
+    public boolean areReteta=false;
 
     public MedicamentSpital(String nume, List<String> reteta) {
         this.nume = nume;
@@ -14,7 +15,7 @@ public class MedicamentSpital {
     }
 
     public void achizitioneazaMedicament(){
-        if(prezintaReteta())
+        if(areReteta)
         {
             System.out.println("S-a achizitionat medicamentul "+nume+" pe baza de reteta");
         }
@@ -22,6 +23,9 @@ public class MedicamentSpital {
             System.out.println("Medicamentul  "+nume+" nu se afla pe reteta si nu poate fi cumparat!");
     }
     public boolean prezintaReteta(){
-        return reteta.contains(nume);
+        if(reteta.contains(nume)){
+            areReteta=true;
+        }
+        return areReteta;
     }
 }

@@ -1,7 +1,8 @@
 package Composite.main;
 
-import Composite.clase.Agentie;
-import Composite.clase.Filiala;
+import Composite.clase.*;
+
+
 //EXERCITIUL D9
 public class Main {
 

@@ -1,6 +1,6 @@
 package Adapter.clase;
 
-//clasa care exista deja si care se adapteaza la ontextul nou
+//clasa care exista deja si care se adapteaza la contextul nou
 public class Bilet {
 
     private float pret;
