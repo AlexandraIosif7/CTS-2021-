@@ -2,220 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c9f52a-bf7c-4cf1-a6f7-462f07a68b7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A_Spital_2020/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_Spital_2020/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_Spital_2020/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A_Spital_2020/A_Spital_2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar10-chain &amp; state &amp; strategy/seminar10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar2-SOLID 1/.idea/seminar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar2-SOLID 1/seminar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar3-SOLID 2/.idea/seminar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar3-SOLID 2/seminar2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar4-singleton/.idea/seminar4-singleton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar4-singleton/seminar4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5-factory &amp; prototype/seminar5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar7-composite &amp; facade &amp; proxy/seminar7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar8-decorator/seminar8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar9-command &amp; flyweight/seminar9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/META-INF/A_Spital_2020.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex10_Flyweight/clase/DetaliiInternare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex10_Flyweight/clase/IInternarePacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex10_Flyweight/clase/OperatorDeInternari.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex10_Flyweight/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex10_Flyweight/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex11_Strategy/clase/IPlata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex11_Strategy/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex11_Strategy/clase/PlataCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex11_Strategy/clase/PlataCash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex11_Strategy/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/clase/Externat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/clase/Internat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/clase/Stare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/clase/SubObservatie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex13_State/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/ComandaInternare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/ComandaTratarePeLoc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/IComanda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/Medic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex15_Command/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/clase/NotificatorAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/clase/NotificatorEmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/clase/NotificatorManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/clase/NotificatorSMS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex16_Chain/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/Asistent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/Brancardier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/Medic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/PersonalSpital.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/PersonalSpitalFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/PersonalSpitalFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/clase/TipPersonal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex2_SimpleFactory/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/Asistent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/Brancardier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/FactoryAsistent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/FactoryBrancardier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/FactoryMedic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/IFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/Medic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/clase/PersonalSpital.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex3_FactoryMethod/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex4_Prototype/clase/IRetetaPrototype.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex4_Prototype/clase/RetetaPrototype.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex4_Prototype/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex5_Adapter/clase/IMedicament.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex5_Adapter/clase/MedSpitalTOMedFarmacie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex5_Adapter/clase/MedicamentFarmacie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex5_Adapter/clase/MedicamentSpital.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex5_Adapter/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex6_Facade/clase/Facade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex6_Facade/clase/Medic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex6_Facade/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex6_Facade/clase/Salon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex6_Facade/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex7_Decorator/clase/DecoratorOnline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex7_Decorator/clase/IDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex7_Decorator/clase/IRezultate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex7_Decorator/clase/Rezultate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex7_Decorator/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex8_Composite/clase/Departament.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex8_Composite/clase/IDepartament.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex8_Composite/clase/Sectie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex8_Composite/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex9_Proxy/clase/IPacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex9_Proxy/clase/Pacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex9_Proxy/clase/ProxyPacient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_Spital_2020/out/production/A_Spital_2020/ex9_Proxy/main/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/seminar10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/ChainOfResponsibility/clase/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/ChainOfResponsibility/clase/Notificator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/ChainOfResponsibility/clase/NotificatorEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/ChainOfResponsibility/clase/NotificatorSMS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/ChainOfResponsibility/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/clase/Masa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/clase/Stare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/clase/StareLibera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/clase/StareOcupata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/clase/StareRezervata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/State/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/Strategy/clase/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/Strategy/clase/IPlata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/Strategy/clase/PlataCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/Strategy/clase/PlataCash.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar10/src/Strategy/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/.idea/seminar2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/angajati.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/elevi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/elevinoi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/META-INF/seminar2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/Angajat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/Aplicant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/Elev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/readers/AngajatiReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/readers/EleviReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/readers/IReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/clase/readers/StudentsReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/out/production/seminar2/ro/ase/cts/program/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/seminar2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/Angajat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/Aplicant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/Elev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/readers/AngajatiReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/readers/EleviReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/readers/IReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/clase/readers/StudentsReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/src/ro/ase/cts/program/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2/studenti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/.idea/seminar2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/angajati.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/elevi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/elevinoi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/Angajat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/Aplicant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/Elev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/readers/AngajatiReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/readers/EleviReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/clase/readers/StudentsReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/out/production/seminar2/ro/ase/cts/program/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/seminar2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/Angajat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/Aplicant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/Elev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/Proiect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/readers/AngajatiReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/readers/BaseReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/readers/EleviReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/clase/readers/StudentsReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/src/ro/ase/cts/program/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar3/studenti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/out/production/seminar4/META-INF/seminar4.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/out/production/seminar4/ro/ase/cts/clase/Presedinte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/out/production/seminar4/ro/ase/cts/clase/PresedinteLazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/out/production/seminar4/ro/ase/cts/clase/Regina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/out/production/seminar4/ro/ase/cts/program/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/seminar4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/src/ro/ase/cts/clase/Presedinte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/src/ro/ase/cts/clase/PresedinteLazy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/src/ro/ase/cts/clase/Regina.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar4/src/ro/ase/cts/program/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/Asistent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/Brancardier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/FactoryAsistent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/FactoryBrancardier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/FactoryInfirmier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/FactoryMedic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/Infirmier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/Medic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/clase/PersonalSpital.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/factory_method/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/prototype/clase/AbstractPrototype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/prototype/clase/Reteta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/prototype/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/Asistent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/Brancardier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/FactoryPersonal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/FactoryPersonal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/Medic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/PersonalSpital.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/clase/TipPersonal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/out/production/seminar5/ro/ase/cts/simple_factory/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/seminar5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/Asistent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/Brancardier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/FactoryAsistent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/FactoryBrancardier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/FactoryInfirmier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/FactoryMedic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/Infirmier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/Medic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/clase/PersonalSpital.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/factory_method/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/prototype/clase/AbstractPrototype.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/prototype/clase/Reteta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/prototype/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/Asistent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/Brancardier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/FactoryPersonal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/Medic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/PersonalSpital.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/clase/TipPersonal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar5/src/ro/ase/cts/simple_factory/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/out/production/seminar6/Adapter/clase/Bilet.class" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6-adapter &amp; builder/out/production/seminar6/Adapter/clase/Bilet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/out/production/seminar6/Builder/clase/RezervareBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6-adapter &amp; builder/out/production/seminar6/Builder/clase/RezervareBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/out/production/seminar6/META-INF/seminar6.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Adapter/clase/Bilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Adapter/clase/Bilet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Adapter/clase/IBiletOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Adapter/clase/IBiletOnline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Builder/clase/RezervareBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar6-adapter &amp; builder/src/Builder/clase/RezervareBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Facade/clase/BirouDeCredite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Facade/clase/Facade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Facade/clase/Persoana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Facade/clase/Politie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Facade/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Proxy/clase/IOperatorCredite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Proxy/clase/Moneda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Proxy/clase/OperatorCredite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Proxy/clase/OperatorCrediteProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/out/production/seminar7/Proxy/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/seminar7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Composite/clase/Agentie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Composite/clase/Filiala.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Composite/clase/Sediu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Composite/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Facade/clase/BirouDeCredite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Facade/clase/Facade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Facade/clase/Persoana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Facade/clase/Politie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Facade/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Proxy/clase/IOperatorCredite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Proxy/clase/Moneda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Proxy/clase/OperatorCredite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Proxy/clase/OperatorCrediteProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar7/src/Proxy/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/seminar8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/clase/DecoratorAbstract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/clase/DecoratorCuLaMultiAni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/clase/DecoratorCuPasteFericit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/clase/INota.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/clase/NotaDePlata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar8/src/Decorator/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/seminar9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/clase/Comanda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/clase/ComandaOcupare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/clase/ComandaRezervare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/clase/Masa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/clase/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Command/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Flyweight/clase/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Flyweight/clase/Flyweight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Flyweight/clase/FlyweightFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Flyweight/clase/Rezervare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar9/src/Flyweight/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar8-decorator/out/production/seminar8/Decorator/clase/NotaDePlata.class" beforeDir="false" afterPath="$PROJECT_DIR$/seminar8-decorator/out/production/seminar8/Decorator/clase/NotaDePlata.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,10 +161,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1614604218946" />
-    <state x="445" y="121" key="FileChooserDialogImpl" timestamp="1616685348134">
+    <state x="445" y="121" key="FileChooserDialogImpl" timestamp="1621521348418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="445" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616685348134" />
+    <state x="445" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621521348418" />
     <state x="104" y="128" key="MultipleFileMergeDialog" timestamp="1614873131186">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -312,17 +173,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614873155973" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1620743980892">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1621521314424">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1620743980892" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1621521314424" />
     <state x="201" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614873104330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="201" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1614873104330" />
-    <state x="209" y="32" key="new project wizard" timestamp="1616685349998">
+    <state x="122" y="57" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog" timestamp="1621007548658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616685349998" />
+    <state x="122" y="57" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog/0.0.1536.824@0.0.1536.824" timestamp="1621007548658" />
+    <state x="209" y="32" key="new project wizard" timestamp="1621521350029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621521350029" />
   </component>
 </project>
