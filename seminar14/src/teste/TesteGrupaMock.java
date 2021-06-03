@@ -3,6 +3,8 @@ package teste;
 import clase.Grupa;
 import clase.IStudent;
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
+import teste.categorii.PromovabilitateCategory;
 import teste.mockuri.StudentDummy;
 import teste.mockuri.StudentFake;
 import teste.mockuri.StudentStub;
@@ -27,6 +29,7 @@ public class TesteGrupaMock {
 
     //test cu stub
     @Test
+    @Category(PromovabilitateCategory.class)
     public void testGetPromovabilitate(){
         IStudent student=new StudentStub();
         Grupa grupa=new Grupa(1081);
@@ -37,6 +40,7 @@ public class TesteGrupaMock {
 
     //test cu fake - sa avem 8 studenti integralisti si 2 cu restante= promovabilitate 0.8 -RIGHT
     @Test
+    @Category(PromovabilitateCategory.class)
     public void testPromovabilitateRight(){
 
         Grupa grupa =new Grupa(1081);
