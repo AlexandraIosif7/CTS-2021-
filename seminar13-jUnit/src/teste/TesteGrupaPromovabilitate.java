@@ -90,7 +90,7 @@ public class TesteGrupaPromovabilitate {
 
     //RANGE - setam un interval si setam in interior, pe limite, in exterior
     //sa fie promovabilitatea intre 0-1
-    //nu putem sa facem noi o promovabilitate care sa fi emai mica decta 0 sau mai mare decat 1 deci nu putem sa facem testul de exterior aici
+    //nu putem sa facem noi o promovabilitate care sa fie mai mica decat 0 sau mai mare decat 1 deci nu putem sa facem testul de exterior aici
 
     //REFERENCE - referinta externa Student cu metoda areRestante
     //testam situatiile ptr referinta externa
